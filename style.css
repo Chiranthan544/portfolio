@@ -1,0 +1,28 @@
+.a{
+    text-align: center;
+}
+body{
+    background-color:blue;
+    height:400px;
+    padding:10px;
+}
+.b{
+    background-color:aqua;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:6px solid black;
+}
+.c{
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+.d{
+    background-color: aqua;
+    display:block;
+    margin:auto
+}
+#x{
+    border: 5px solid black;
+}
